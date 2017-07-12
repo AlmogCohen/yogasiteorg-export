@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disabled</key>
+	<false/>
+	<key>Label</key>
+	<string>org.sivananda.yogasitesqldownloader</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/bash</string>
+		<string>export.sh</string>
+	</array>
+	<key>StandardErrorPath</key>
+	<string>/Users/wells/dev/log/System.log</string>
+	<key>StandardOutPath</key>
+	<string>/Users/wells/dev/log/System.log</string>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>4</integer>
+		<key>Minute</key>
+		<integer>0</integer>
+	</dict>
+	<key>WorkingDirectory</key>
+	<string>/Users/wells/jd.wells@gmail.com/Sivananda/Project Bliss/tech/yogasite/backups</string>
+</dict>
+</plist>
