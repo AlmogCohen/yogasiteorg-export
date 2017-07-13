@@ -1,4 +1,4 @@
-#!/bin/sh -v
+#!/bin/sh
 
 wd="/Users/wells/bliss/tech/yogasite/backups"
 date=`date '+%Y-%m%d-%H'`
